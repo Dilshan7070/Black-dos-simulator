@@ -7,3 +7,12 @@ A simple Python-based tool to simulate Denial of Service attacks using multithre
 By using this software, you agree to take full responsibility for your actions. The author is *not liable* for any misuse or damage caused by this tool.
 
 *Please use responsibly and ethically.*
+
+# HOW TO USE 
+1.  git clone https://github.com/Dilshan7070/Black-dos-simulator.git
+2.  cd  Black-dos-simulator
+3.  pip install -r requirements.txt
+4.  python DOS.py
+
+
+
